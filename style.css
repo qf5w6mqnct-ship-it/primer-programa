@@ -74,3 +74,12 @@ footer{
     border: 1px solid black;
     position: relative;
 }
+
+aside{
+    top: 0;
+    left: 0;
+    height: 400px;
+    width: 200px;
+    background: gray;
+    position: absolute;
+}
