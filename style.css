@@ -58,7 +58,7 @@ nav{
     border: 1px solid black;
     margin: 10px 1px;
     text-align: center;
-    
+    line-height: 80px;
 }
 
 article {
