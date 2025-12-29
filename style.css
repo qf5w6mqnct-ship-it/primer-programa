@@ -51,3 +51,12 @@ nav{
     position: relative;
     border: 1px solid black;
 }
+
+.nave{
+    float: left;
+    height: 150px;
+    width: 498px;
+    background: white;
+    border: 1px solid black;
+    margin: 0 1px;
+}
