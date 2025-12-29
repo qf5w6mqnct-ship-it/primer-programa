@@ -21,3 +21,16 @@ header {
     border: 1px solid black;
     position: absolute;
 }
+
+#red1{
+    bottom: 20px;
+    right: 250px;
+}
+#red2{
+    bottom: 20px;
+    right: 200px;
+}
+#red3{
+    bottom: 20px;
+    right: 150px;
+}
