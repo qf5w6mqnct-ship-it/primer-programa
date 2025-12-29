@@ -54,9 +54,9 @@ nav{
 
 .nave{
     float: left;
-    height: 150px;
-    width: 498px;
+    height: 80px;
+    width: 495px;
     background: white;
     border: 1px solid black;
-    margin: 0 1px;
+    margin: 10px 1px;
 }
