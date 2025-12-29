@@ -83,13 +83,3 @@ aside{
     background: white;
     position: absolute;
 }
-
-article{
-
-    position: absolute;
-    top: 0;
-    left: 0;
-    background: gray;
-    height: 200px;
-    width: 600px;
-}
