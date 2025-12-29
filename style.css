@@ -12,3 +12,11 @@ header {
     background: grey;
     position: relative;
 }
+
+.redes{
+    width: 32px;
+    height: 32px;
+    border: white;
+    border-radius: 100%;
+    border: 1px solid black;
+}
