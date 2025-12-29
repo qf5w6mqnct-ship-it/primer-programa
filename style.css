@@ -8,7 +8,6 @@
 header {
     height: 200px;
     border: 1px solid black;
-    margin:20px auto;
     background: grey;
     position: relative;
 }
@@ -42,5 +41,13 @@ header {
     height: 150px;
     width: 300px;
     background: white;
+    border: 1px solid black;
+}
+
+nav{
+    height: 100px;
+    margin: 20px auto;
+    background: grey;
+    position: relative;
     border: 1px solid black;
 }
