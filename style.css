@@ -66,4 +66,13 @@ article {
     border: 1px solid black;
     background: gray;
     position: relative;
+    
+}
+
+footer{
+    height: 50px;
+    margin:20px auto;
+    background: grey;
+    border: 1px solid black;
+    position: relative;
 }
