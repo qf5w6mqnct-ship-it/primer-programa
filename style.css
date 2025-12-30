@@ -88,16 +88,15 @@ section{
 }
 
 #txt{
-    width: 750px;
     height: 400px;
     background: darkgray;
     flex: 1;
 }
 
 #asd{
-    width: 250px;
     height: 400px;
     flex: 1;
+    background: gray;
 }
 
 footer{
