@@ -73,7 +73,8 @@ nav{
     height: 120px;
     background-color: gainsboro;
     margin: 0 2px;
-
+    text-align: center;
+    line-height: 120px;
 }
 
 
