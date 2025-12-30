@@ -89,12 +89,12 @@ section{
 
 #txt{
     background: darkgray;
-    flex-grow: 3;
+    flex: 3;
     min-width: 0;
 }
 
 #asd{
-    flex-grow: 1;
+    flex: 1;
     background: gray;
     min-width: 0;
 }
