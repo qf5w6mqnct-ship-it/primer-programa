@@ -70,6 +70,15 @@ nav{
     background: grey;
     border: 1px solid black;
 }
+#top ul li{
+    float: left;
+    width: 246px;
+    height: 120px;
+    background-color: gainsboro;
+    margin: 0 2px;
+
+}
+
 
 section{
     width: 1000px;
