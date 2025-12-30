@@ -88,13 +88,11 @@ section{
 }
 
 #txt{
-    height: 400px;
     background: darkgray;
     flex: 3;
 }
 
 #asd{
-    height: 400px;
     flex: 1;
     background: gray;
 }
