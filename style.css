@@ -54,6 +54,15 @@ nav{
     border: 1px solid black;
 }
 
+.nave{
+    float: left;
+    width: 498px;
+    height: 80px;
+    position: absolute;
+    background-color: aqua;
+
+}
+
 #top{
     width: 1000px;
     height: 120px;
