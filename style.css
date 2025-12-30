@@ -90,7 +90,6 @@ section{
 #txt{
     width: 750px;
     height: 400px;
-    position: absolute;
     background: darkgray;
     flex: 3;
 }
@@ -98,7 +97,6 @@ section{
 #asd{
     width: 250px;
     height: 400px;
-    position: absolute;
     flex: 1;
 }
 
