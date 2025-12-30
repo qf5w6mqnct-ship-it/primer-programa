@@ -93,6 +93,12 @@ section{
     height: 100%;
 }
 
+section article form{
+    height: 100%;
+    width: 40%;
+    
+}
+
 #asd{
     flex: 1;
     min-width: 0;
