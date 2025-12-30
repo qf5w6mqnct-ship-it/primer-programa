@@ -92,3 +92,8 @@ h2{
   font-style: normal;
 }
 
+section{
+    height: 400px;
+    width: 1000px;
+}
+
