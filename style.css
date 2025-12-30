@@ -105,8 +105,7 @@ section article form{
 }
 
 section article form input{
-    margin: 0 auto;
-
+    -ms-flex-align: center;
 }
 
 #asd{
