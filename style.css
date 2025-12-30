@@ -103,7 +103,7 @@ section{
 
 #txt h2, 
 #asd h2 {
-    text-align: center;
+    justify-content: center;
 }
 
 footer{
