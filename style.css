@@ -66,6 +66,7 @@ article {
     border: 1px solid black;
     background: gray;
     position: relative;
+    text-align: center;
 }
 
 footer{
@@ -83,13 +84,12 @@ aside{
     width: 200px;
     background: white;
     position: absolute;
+    text-align: center;
 }
 
 h2{
   font-family: "BBH Hegarty", sans-serif;
   font-weight: 400;
   font-style: normal;
-  text-align: center;
-
 }
 
