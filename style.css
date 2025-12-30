@@ -24,6 +24,25 @@ header{
     border: 1px solid black;
 }
 
+.redes{
+    width: 42px;
+    height: 42px;
+    position: absolute;
+    background: white;
+    border: 1px solid black;
+}
+
+#red1{
+    bottom: 10px;
+    left: 150px;
+}#red2{
+    bottom: 10px;
+    left: 100px;
+}#red3{
+    bottom: 10px;
+    left: 50px;
+}
+
 nav{
     width: 1000px;
     height: 80px;
