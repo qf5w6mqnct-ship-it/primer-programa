@@ -10,8 +10,6 @@ header{
     height: 200px;
     position: relative;
     margin: 20px auto;
-    background: grey;
-    border: 1px solid black;
 }
 
 #logo{
@@ -50,15 +48,13 @@ nav{
     height: 80px;
     position: relative;
     margin: 0 auto;
-    background: grey;
-    border: 1px solid black;
 }
 
 .na{
     float: left;
     width: 496px;
     height: 80px;
-    background-color:gainsboro;
+    background-color:gray;
     margin: 0 2px;
 }
 
@@ -67,9 +63,8 @@ nav{
     height: 120px;
     position: relative;
     margin: 20px auto;
-    background: grey;
-    border: 1px solid black;
-}
+    }
+
 #top ul li{
     float: left;
     width: 246px;
@@ -85,7 +80,6 @@ section{
     height: 400px;
     position: relative;
     margin: 0 auto;
-    background: grey;
     border: 1px solid black;
 }
 
