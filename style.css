@@ -91,21 +91,19 @@ section{
     flex: 3;
     min-width: 0;
     height: 100%;
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    overflow: hidden;
 }
 
 section article form{
     padding: 20px;
-    margin-top: 20px;
-    margin-bottom: 20px;
-    width: 100px;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: cener;
 }
 
 section article form input{
-    flex: 100%;
+    width: 80%;
+    margin-bottom: 10px;
 }
 
 #asd{
