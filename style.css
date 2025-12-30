@@ -93,6 +93,7 @@ section{
     top: 0;
     right: 0;
     background: darkgray;
+    text-align: center;
 }
 
 #asd{
@@ -102,6 +103,7 @@ section{
     top: 0;
     left: 0;
     background: gray;
+    text-align: center;
 }
 
 footer{
