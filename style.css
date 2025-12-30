@@ -30,17 +30,18 @@ header{
     position: absolute;
     background: white;
     border: 1px solid black;
+    border-radius: 100%;
 }
 
 #red1{
     bottom: 10px;
-    left: 150px;
+    right: 150px;
 }#red2{
     bottom: 10px;
-    left: 100px;
+    right: 100px;
 }#red3{
     bottom: 10px;
-    left: 50px;
+    right: 50px;
 }
 
 nav{
