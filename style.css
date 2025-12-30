@@ -22,3 +22,30 @@ nav{
     background: grey;
     border: 1px solid black;
 }
+
+#top{
+    width: 1000px;
+    height: 120px;
+    position: relative;
+    margin: 20px auto;
+    background: grey;
+    border: 1px solid black;
+}
+
+section{
+    width: 1000px;
+    height: 400px;
+    position: relative;
+    margin: 0 auto;
+    background: grey;
+    border: 1px solid black;
+}
+
+footer{
+    width: 1000px;
+    height: 50px;
+    position: relative;
+    margin: 20px auto;
+    background: grey;
+    border: 1px solid black;
+}
