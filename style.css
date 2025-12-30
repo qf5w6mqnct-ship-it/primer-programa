@@ -4,3 +4,12 @@
     list-style: none;
     width: 1000px
 }
+
+header{
+    width: 1000px;
+    height: 200px;
+    position: relative;
+    margin: 20px auto;
+    background: grey;
+    border: 1px solid black;
+}
