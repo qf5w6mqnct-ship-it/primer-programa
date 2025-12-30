@@ -89,6 +89,15 @@ section{
     border: 1px solid black;
 }
 
+#asd{
+    width: 250px;
+    height: 400px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    
+}
+
 footer{
     width: 1000px;
     height: 50px;
