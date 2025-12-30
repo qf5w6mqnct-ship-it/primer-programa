@@ -66,6 +66,7 @@ article {
     border: 1px solid black;
     background: gray;
     position: absolute;
+    text-align: center;
 }
 
 footer{
