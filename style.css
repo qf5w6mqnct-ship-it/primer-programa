@@ -96,11 +96,6 @@ section{
     flex-wrap: wrap;
 }
 
-section article form{
-    height: 100%;
-    width: 40%;
-    
-}
 
 #asd{
     flex: 1;
