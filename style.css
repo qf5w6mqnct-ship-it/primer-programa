@@ -95,7 +95,7 @@ section{
     position: absolute;
     top: 0;
     right: 0;
-
+    background: darkgray;
 }
 
 #asd{
@@ -104,7 +104,7 @@ section{
     position: absolute;
     top: 0;
     left: 0;
-
+    background: gray;
 }
 
 footer{
