@@ -54,9 +54,9 @@ nav{
     border: 1px solid black;
 }
 
-.nave{
+.na{
     float: left;
-    width: 1000;
+    width: 496px;
     height: 80px;
     position: absolute;
     background-color:gainsboro;
