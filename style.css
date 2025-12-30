@@ -65,7 +65,7 @@ article {
     height: 400px;
     border: 1px solid black;
     background: gray;
-    position: relative;
+    position: absolute;
 }
 
 footer{
@@ -83,7 +83,7 @@ aside{
     width: 200px;
     background: white;
     position: absolute;
-    text-align: center;
+
 }
 
 h2{
@@ -95,5 +95,7 @@ h2{
 section{
     height: 400px;
     width: 1000px;
+    position: relative;
+    margin: 0 auto;
 }
 
